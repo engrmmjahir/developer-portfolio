@@ -6,10 +6,10 @@ body{
 .top-banner .half-width h1{
     font-size: 50px;
 }
-.header_style{
+.orange-color{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -48,4 +48,32 @@ section{
 }
 .dream-big .half-width img{
     width: 100%;
+}
+.exp-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray; 
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.exp-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+#full-stack-developer{
+    border-left: 10px solid tomato;
+    
+}
+#baby-stack-developer{
+    border-left: 10px solid blue;
+}
+footer p{
+    text-align: center;
 }
