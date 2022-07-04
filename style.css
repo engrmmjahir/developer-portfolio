@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
-.top-banner h1{
+.top-banner .half-width h1{
     font-size: 50px;
 }
 .header_style{
@@ -17,10 +17,10 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 85%;
+    width: 90%;
 }
 .half-width{
-    padding-left: 5%;
+    padding-left: 10%;
 }
 .hireme-button{
     text-decoration: none;
@@ -41,7 +41,7 @@ section{
 
 }
 .dream-big .half-width{
-    padding-right: 100px;
+    padding-right: 50px;
 }
 .half-width h1{
     font-size: 35px;
