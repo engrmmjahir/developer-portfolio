@@ -1,6 +1,7 @@
 body{
     font-family: 'Dancing Script', cursive;
     font-family: 'Poppins', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 50px;
@@ -15,7 +16,7 @@ section{
     width: 50%;
 }
 .half-width img{
-    width: 75%;
+    width: 85%;
 }
 .half-width{
     padding-left: 5%;
@@ -27,4 +28,8 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
